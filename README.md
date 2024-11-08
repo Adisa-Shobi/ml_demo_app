@@ -1,16 +1,32 @@
-# ml_demo_app
+# Prediction App 🔮
 
-A new Flutter project.
+A simple mobile app that provides fortune-telling style predictions based on your questions!
 
-## Getting Started
+![App Screenshot](flutter_01.png)
 
-This project is a starting point for a Flutter application.
+## Features
+- Clean, minimalist interface 
+- Text input for questions
+- One-tap prediction generation
+- Motivational responses
 
-A few resources to get you started if this is your first Flutter project:
+## How It Works
+1. Enter your question in the text field
+2. Tap the "Predict" button  
+3. Receive your prediction
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Interface
+- Question input box
+- Predict button
+- Prediction display area
+- Bottom navigation bar
+- Status bar with time and battery
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Design
+- Soft pink/purple theme
+- Clean text fields
+- Rounded button styling
+- Easy-to-read typography
+
+---
+*For entertainment purposes only*
